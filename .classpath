@@ -2,6 +2,5 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/media/ourck/Local/Documents/Project TIJ4/net.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
