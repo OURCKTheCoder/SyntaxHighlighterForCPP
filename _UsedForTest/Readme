@@ -1,0 +1,3 @@
+The files "huffman.cpp" & "main.cpp" are used for test; "test.html" is the output file.
+Usage:
+	java -jar SyntaxHighlighter.jar main.cpp test.html 
