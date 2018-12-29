@@ -1,0 +1,10 @@
+1. 使用方法:终端运行
+	java -jar SyntaxHighlighter.jar main.cpp test.html
+  文件"main.cpp"是用来高亮的测试文件， "test.html"是输出的HTML文件。
+
+2. 或：
+	java -jar SyntaxHighlighter_Swing.jar
+  运行窗口版本的程序，然后把代码粘贴进文本框就好。
+  不过，请务必在JDK 10及以上版本运行。
+
+3. CPPHighlighter文件夹里的东西是Javadoc文档，详细说明了项目里面每个类、每个方法的作用。
